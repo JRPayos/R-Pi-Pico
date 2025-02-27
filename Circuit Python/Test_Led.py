@@ -1,3 +1,4 @@
+# Test LEDs from GPIO 0-1
 import time
 import board
 import digitalio
